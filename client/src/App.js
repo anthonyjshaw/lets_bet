@@ -1,9 +1,10 @@
 import React from "react";
+import Bets from './components/Bets/Bets'
 
 const App = () => {
     return (
         <div>
-            <h1>Hello< there/h1>
+            <Bets />
         </div>
     )
 }
